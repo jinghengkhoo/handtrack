@@ -1,0 +1,7 @@
+name: handtracker
+dependencies:
+   - numpy
+   - pip:
+     - opencv-python
+     - pygame
+     - tensorflow-cpu
